@@ -73,9 +73,6 @@ Welcome to my Github page! I am Praveen Kumar Reddy and I am currently Pursuing 
 </a>
 
 
-
----
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/pollcrater/pollcrater/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pollcrater/pollcrater/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 

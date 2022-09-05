@@ -80,13 +80,10 @@ Welcome to my Github page! I am Praveen Kumar Reddy and I am currently Pursuing 
 
 
 
-
-
-
-
+<!-- 
 <p align="center">
   <img src="https://github.com/pollcrater/pollcrater/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
+-->
 
 [BIT Mesra]: https://www.bitmesra.ac.in/

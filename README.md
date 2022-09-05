@@ -77,15 +77,15 @@ Welcome to my Github page! I am Praveen Kumar Reddy and I am currently Pursuing 
 ---
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/pollcrater/pollcrater/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pollcrater/pollcrater/output/github-contribution-grid-snake.svg#gh-light-mode-only)
--->
 
 
 
 
 
-<!--
+
+
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/pollcrater/pollcrater/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 -->
 

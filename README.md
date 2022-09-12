@@ -45,12 +45,12 @@ Welcome to my Github page! I am Praveen Kumar Reddy and I am currently Pursuing 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-5E5C5C?style=for-the-badge&logo=c++&logoColor=white"/>
--->
+
 <img src="https://img.shields.io/badge/python-0095D5?&style=for-the-badge&logo=python&logoColor=white"/>
  </div>
- <!--
+ 
  <div align="center" style="display:flex">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -62,25 +62,27 @@ Welcome to my Github page! I am Praveen Kumar Reddy and I am currently Pursuing 
  </div>
  <br>
  <br>
- -->
+ 
  ---
+ <h3>👨‍💻 My Statistics</h3>
+ <div align = center>   
 
- <a href="https://github.com/pollcrater">
+  <a href="https://github.com/pollcrater">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pollcrater&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
 </a>
 <a href="https://github.com/pollcrater">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollcrater&theme=dark&hide_langs_below=0" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollcrater&theme=dark&hide_langs_below=0"/>
 </a>
+  
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=pollcrater&show_icons=true&count_private=true&theme=cobalt"/>
+  <br>
+<h3></h3>
+<img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pollcrater&theme=dracula"/>
+  
+</div> 
 
-
+ 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/pollcrater/pollcrater/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pollcrater/pollcrater/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-
-<!-- 
-<p align="center">
-  <img src="https://github.com/pollcrater/pollcrater/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
--->
 
 [BIT Mesra]: https://www.bitmesra.ac.in/

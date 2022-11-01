@@ -45,20 +45,23 @@ Welcome to my Github page! I am Praveen Kumar Reddy and I am currently Pursuing 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <!-- 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-5E5C5C?style=for-the-badge&logo=c++&logoColor=white"/>
-
+-->
 <img src="https://img.shields.io/badge/python-0095D5?&style=for-the-badge&logo=python&logoColor=white"/>
  </div>
  
  <div align="center" style="display:flex">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badgele&logo=nodedotjs&logoColor=white"/>
+ <!-- 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badgele&logo=nodedotjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-CB3837?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+-->
  </div>
  <br>
  <br>
